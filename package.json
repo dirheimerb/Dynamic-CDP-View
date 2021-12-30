@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/dirheimerb.lwc-kxsvdh93-fork-kxt464ur",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4eeVZ7JAOmkpSAUXnIDH --open"
+  }
+}

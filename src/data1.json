@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "OccuranceCnt": 1,
+      "Id": "70924e05-c98a-3843-bd16-8f0beccfe232",
+      "ContactPoint": "FIX ME,FIX ME",
+      "ContactPointType": "INDIVIDUAL"
+    },
+    {
+      "OccuranceCnt": 1,
+      "Id": "70924e05-c98a-3843-bd16-8f0beccfe232",
+      "ContactPoint": "shop@kitchener.ch",
+      "ContactPointType": "EMAIL"
+    },
+    {
+      "OccuranceCnt": 1,
+      "Id": "70924e05-c98a-3843-bd16-8f0beccfe232",
+      "ContactPoint": "Aarbergergasse 40,Bern,,3011,CH",
+      "ContactPointType": "ADDRESS"
+    },
+    {
+      "OccuranceCnt": 1,
+      "Id": "70924e05-c98a-3843-bd16-8f0beccfe232",
+      "ContactPoint": "",
+      "ContactPointType": "PHONE"
+    }
+  ],
+  "startTime": "2021-12-30T12:04:13.641147Z",
+  "endTime": "2021-12-30T12:04:18.3306Z",
+  "rowCount": 4,
+  "queryId": "871893a7-9e1c-4b74-9610-e685132e24a4",
+  "done": true,
+  "metadata": {
+    "ContactPoint": {
+      "type": "VARCHAR",
+      "placeInOrder": 2,
+      "typeCode": 12
+    },
+    "Id": {
+      "type": "VARCHAR",
+      "placeInOrder": 1,
+      "typeCode": 12
+    },
+    "OccuranceCnt": {
+      "type": "BIGINT",
+      "placeInOrder": 0,
+      "typeCode": -5
+    },
+    "ContactPointType": {
+      "type": "VARCHAR",
+      "placeInOrder": 3,
+      "typeCode": 12
+    }
+  }
+}

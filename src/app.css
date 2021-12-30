@@ -1,0 +1,115 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+label {
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+
+}
+
+.container {
+    max-width: fit-content;
+     
+}
+
+.count {
+    column-count: 3;
+    column-span: inherit;
+}
+
+.col1 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+}
+
+.col2 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+
+.col3 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+
+.col4 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+
+.col5 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+}
+
+.col6 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+
+.col7 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+
+.col8 {
+    box-sizing: content-box;
+    padding-left: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: left;
+}
+
+
+
+
+
+@media screen and (width: 25vh to 75vh) 
+
+
+
+
+
+
+
+
+

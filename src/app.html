@@ -1,0 +1,35 @@
+<template>
+	<lightning-card>
+
+		<lightning-tabset>
+			<lightning-tab icon-name="standard:data_streams">
+				Name: <br>
+			Phone: <br>
+			Emails: <br>
+			Address: <br>
+			</lightning-tab>
+		</lightning-tabset>
+		<lightning-tabset>
+			<lightning-tab label={datasource1}>
+				<c-child></c-child>
+			</lightning-tab>
+			<lightning-tab label={datasource2}>
+				<c-child2></c-child2>
+			</lightning-tab>
+			<lightning-tab label={datasource3}>
+				<c-child2></c-child2>
+			</lightning-tab>
+
+			<lightning-tab label={datasource4}>
+				<c-child2></c-child2>
+			</lightning-tab>
+			<lightning-tab label={datasource5}>
+				<c-child2></c-child2>
+			</lightning-tab>
+			<lightning-tab label={datasource6}>
+				<c-child2></c-child2>
+			</lightning-tab>
+
+		</lightning-tabset>
+	</lightning-card>
+</template>
